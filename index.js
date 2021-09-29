@@ -3,7 +3,7 @@ import React from 'react'
 const index = () => {
     return (
         <div>
-            hfdh hfgh h fghgh 546w56 
+            hfdh hfgh h fghgh 546w56  67
         </div>
     )
 } 
