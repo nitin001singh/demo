@@ -6,6 +6,6 @@ const index = () => {
             hfdh hfgh h fghgh
         </div>
     )
-}
+} 
 
 export default index
